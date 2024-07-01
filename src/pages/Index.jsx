@@ -1,9 +1,9 @@
 function Index() {
   return (
     <div>
-      <h1 className="text-3xl text-center">Your Blank Canvas</h1>
+      <h1 className="text-3xl text-center">Welcome to the CSV Tool</h1>
       <p className="text-center">
-        Chat with the agent to start making edits.
+        Use the sidebar to navigate to the CSV upload, edit, and download tool.
       </p>
     </div>
   );
